@@ -38,9 +38,10 @@ const About = () => {
           </div>
 
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias,
-            consequatur accusantium facere sed, maiores corporis quos hic quas,
-            nesciunt est quis dicta dolorum? Soluta, vel.
+            SHALU CHAUDHARY.I have compeleted my B.Tech(Civil Engineering) with
+            75.6%. At present I am learning Web Development. <br /> I am
+            committed to learning and self-development so that I can
+            consistently achive better result.
           </p>
 
           <a href="#contact" className="btn btn-primary">
